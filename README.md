@@ -58,3 +58,7 @@ curl --location 'http://localhost:8000/search/provinces?id=1'
 ```shell
 curl --location 'http://localhost:8000/search/citis?province_id=1'
 ```
+
+
+##### NOTE
+CHANGE DATA SOURCE FROM config/datasource.php if want to change source of the dta
