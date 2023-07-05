@@ -1,9 +1,13 @@
 ## logistic-integration
-This service aim to integrate to several logistic provider for pricing validation and also delivery estimation
+This service aims to integrate with several logistic providers for pricing validation and also delivery estimation
 
 ### Architecture
 
+<img width="877" alt="Screen Shot 2023-07-05 at 09 56 13" src="https://github.com/sjuliper7/logistic-integration-service/assets/29673571/beec9a44-2a36-413a-b899-a391878709be">
+
+
 ### Database Design
+<img width="669" alt="Screen Shot 2023-07-05 at 09 56 49" src="https://github.com/sjuliper7/logistic-integration-service/assets/29673571/c1a80441-2c1f-42ee-a017-315b48b18788">
 
 
 ### How to start?
